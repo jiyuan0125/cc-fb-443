@@ -1,0 +1,4 @@
+days_touched 20
+rows_changed 43
+resends 45
+notes 仅统计审核态pass的记录,pending与reject不计入条数和分数;同一记录号多行时以后出现的行为准;重传包为全量重报,未出现的旧记录视为内容方删除;同一观众同一内容同一天多条play逐条计数不去重;days_touched为被重传覆盖的不同自然日数;周表按周一至周日的自然周聚合,week列记该周周一日期
